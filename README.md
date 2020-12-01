@@ -1,13 +1,41 @@
-# 听觉系统与鸡尾酒会问题 (The Auditory System at the Cocktail Party)   
-    The Auditory System at the Cocktail Party is a rather whimsical title that points to the very serious challenge 
+# 听觉系统与鸡尾酒会问题 (The Auditory System at the Cocktail Party)
+
+<img src="./assets/BookCover_The%20Auditory%20System%20at%20the%20Cocktail%20Party.png" height = "300" alt="BookCover" align=center />
+
+
+> The Auditory System at the Cocktail Party is a rather whimsical title that points to the very serious challenge 
     faced by listeners in most everyday environments: how to hear out sounds of interest amid a cacophony of 
     competing sounds. The volume presents the mechanisms for bottom-up object formation and top-down object selection 
-    that the auditory system employs to meet that challenge.
-    
-    -- from the back cover of the book, The Auditory System at the Cocktail Party
-     
-In order to convey the ideas of the book about the auditory system, our team translates the book into Chinese. The book covers of the original English version and the translated Chinese version are shown as follows.  
+    that the auditory system employs to meet that challenge.  
+     -- from the back cover of the book "The Auditory System at the Cocktail Party"
 
-<img src="./materials/BookCover_The%20Auditory%20System%20at%20the%20Cocktail%20Party.png" height = "200" alt="BookCover_EN" align=center />
 
-<img src="./materials/BookCover_The%20Auditory%20System%20at%20the%20Cocktail%20Party.png" height = "200" alt="BookCover_CN" align=center />
+In order to convey the ideas of the book about the auditory system, our team translates the book into Chinese. We are
+firmly convinced that psychophysical and neurophysiology studies on human auditory would give us increasingly 
+understanding of the brain processing mechanism and inspire us to solve cocktail party problem.
+
+### 推荐语 (Recommendation)
+> 语音识别技术得益于深度学习的发展，已经走进了我们的生活。但是，“鸡尾酒会问题”是目前语音识
+别技术发展中无法回避的挑战性难题。本书从物理层的信号与噪声分离、神经生理层的听觉流分离以及心理
+认知层的听觉空间注意，对“鸡尾酒会问题”进行了全方位的分析；从信号处理的技术实现、计算建模以及
+听障应用的角度进行了详细阐述。本书对促进语音技术从感知智能到认知智能的发展有着重要的参考价值。
+目前，涉及此类内容的中文参考书籍极缺，本书的出版弥补了这一缺憾。译者长期从事该领域的技术研究工
+作，全书用词准确、行文流畅，是一本难能可贵的前沿性技术书籍，特此予以推荐。  
+-- [党建武(Jianwu Dang)](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=en&oi=ao)，天津大学智能与计算学部教授，天津市认知计算与应用重点实验室主任，日本北陆先端科学技
+术大学院大学兼职教授，中国计算机学会语音对话与听觉专业组主任
+
+> 本书对近年来鸡尾酒会问题相关的听觉心理学、生理学和认知神经科学的最新研究进展进行了仔细的梳
+理和系统性的组织，无论从投入精力还是难度上看，这在听觉研究领域都是一项大工程，是一件可喜可贺的
+大事。通览全书将使你对听觉客体、选择注意、能量掩蔽、信息掩蔽等概念，以及听觉流形成和听觉场景分
+析计算框架等，形成一个深入全面的认识。重新审视目前语音工程中的基本模块和系统框架，将会激发出新
+的思想火花和有效的解决思路。  
+-- 吴玺宏(Xihong Wu)，北京大学教授，信息科学技术学院副院长，智能科学系主任，言语听觉研究中心主任
+
+> 听觉处理是言语认知的重要基础，对语音识别、语音增强和认知科学的发展具有重要作用，而鸡尾酒会
+场景的听觉处理技术是其中具有挑战性的难题。本书从信号层和神经认知层等多个不同的维度，详细阐述了
+听觉形成的机理和听觉场景的计算框架，以及针对鸡尾酒会问题的详细解决思路，对选择注意、信息掩蔽等
+现象也进行了深入分析，将能够帮助研究人员系统性地掌握听觉处理的理论与方法，对从事听觉处理技术、
+语音识别技术、认知科学等方面的研究具有重要的参考价值。译者在该领域有很高的造诣，对原文中的原理
+性描述，尤其是涉及认知科学的听觉场景计算方法，均能够以准确易懂的方式进行阐述。  
+-- 陶建华(Jianhua Tao)，中国科学院自动化研究所研究员，模式识别国家重点实验室副主任，中欧信息自动化应用数学
+联合实验室中方主任，国家杰出青年科学基金获得者，国家万人计划领军人才
