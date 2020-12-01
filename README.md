@@ -1,6 +1,6 @@
 # 听觉系统与鸡尾酒会问题 (The Auditory System at the Cocktail Party)
 
-<img src="./assets/BookCover_The%20Auditory%20System%20at%20the%20Cocktail%20Party.png" height = "300" alt="BookCover" align=center />
+<img src="./assets/BookCover_The%20Auditory%20System%20at%20the%20Cocktail%20Party.png" height = "400" alt="BookCover" align=center />
 
 
 > The Auditory System at the Cocktail Party is a rather whimsical title that points to the very serious challenge 
@@ -29,7 +29,7 @@ understanding of the brain processing mechanism and inspire us to solve cocktail
 大事。通览全书将使你对听觉客体、选择注意、能量掩蔽、信息掩蔽等概念，以及听觉流形成和听觉场景分
 析计算框架等，形成一个深入全面的认识。重新审视目前语音工程中的基本模块和系统框架，将会激发出新
 的思想火花和有效的解决思路。  
--- 吴玺宏(Xihong Wu)，北京大学教授，信息科学技术学院副院长，智能科学系主任，言语听觉研究中心主任
+-- [吴玺宏(Xihong Wu)](https://scholar.google.com/citations?user=0ZSjU8QAAAAJ&hl=en&oi=ao)，北京大学教授，信息科学技术学院副院长，智能科学系主任，言语听觉研究中心主任
 
 > 听觉处理是言语认知的重要基础，对语音识别、语音增强和认知科学的发展具有重要作用，而鸡尾酒会
 场景的听觉处理技术是其中具有挑战性的难题。本书从信号层和神经认知层等多个不同的维度，详细阐述了
@@ -37,5 +37,5 @@ understanding of the brain processing mechanism and inspire us to solve cocktail
 现象也进行了深入分析，将能够帮助研究人员系统性地掌握听觉处理的理论与方法，对从事听觉处理技术、
 语音识别技术、认知科学等方面的研究具有重要的参考价值。译者在该领域有很高的造诣，对原文中的原理
 性描述，尤其是涉及认知科学的听觉场景计算方法，均能够以准确易懂的方式进行阐述。  
--- 陶建华(Jianhua Tao)，中国科学院自动化研究所研究员，模式识别国家重点实验室副主任，中欧信息自动化应用数学
+-- [陶建华(Jianhua Tao)](http://people.ucas.edu.cn/~taojianhua?language=en)，中国科学院自动化研究所研究员，模式识别国家重点实验室副主任，中欧信息自动化应用数学
 联合实验室中方主任，国家杰出青年科学基金获得者，国家万人计划领军人才
