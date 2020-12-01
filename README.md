@@ -1,7 +1,14 @@
 # 听觉系统与鸡尾酒会问题 (The Auditory System at the Cocktail Party)
 
 <img src="./assets/BookCover_The%20Auditory%20System%20at%20the%20Cocktail%20Party.png" height = "500" alt="BookCover" align=center />
-
+<script type="text/javascript">
+	$(document).ready(function() {
+	    //为超链接加上target='_blank'属性
+		$('a[href^="http"]').each(function() {
+			$(this).attr('target', '_blank');
+		});
+	});
+</script>
 
 > The Auditory System at the Cocktail Party is a rather whimsical title that points to the very serious challenge 
     faced by listeners in most everyday environments: how to hear out sounds of interest amid a cacophony of 
@@ -44,7 +51,11 @@ understanding of the brain processing mechanism and inspire us to solve cocktail
 联合实验室中方主任，国家杰出青年科学基金获得者，国家万人计划领军人才
 
 ### 致谢 (Acknowledgement)
->整本图书翻译工作在徐波老师的组织下，实验室多位同学和老师一同参与了翻译和校对工作，并进行了多次集体书籍内容研讨，为之付出了大量的精力。各个章节的翻译者分别是：第1、2章（黄雅婷），第3、5章（石晶），第4、6章（李晨星），第7章（黄旭辉），第8、9章（许家铭），第10章（郝云喆）。校对者分别是：第1、2章（张鹏），第3、5章（许家铭），第4、6章（石晶），第7、10章（程翔），第8、9章（黄雅婷）。最后全部章节再次由许家铭、石晶、梁玮达和倪子懿统一校订。
+>整本图书翻译工作在徐波老师的组织下，实验室多位同学和老师一同参与了翻译和校对工作，并进行了多次集体书籍内容研讨，为之付出了大量的精力。各个章节的
+>翻译者分别是：第1、2章（黄雅婷），第3、5章（石晶），第4、6章（李晨星），第7章（黄旭辉），第8、9章（许家铭），第10章（郝云喆）。校对者分别是：
+>第1、2章（张鹏），第3、5章（许家铭），第4、6章（石晶），第7、10章（程翔），第8、9章（黄雅婷）。最后全部章节再次由许家铭、石晶、梁玮达和倪子懿统一校订。
 >
->最后，特别感谢机械工业出版社华章分社姚蕾和柯敬贤编辑在出版工作中付出的辛勤工作。衷心希望能够通过翻译本书为中国研究者在听觉神经科学和听觉计算科学方面的探索贡献绵薄之力，以期共同推进智能语音交互的发展，突破“鸡尾酒会问题”的瓶颈。在图书翻译和审校过程中，受学识水平所限，难免存在不妥之处，欢迎专家和读者给予批评指正，最新勘误列表会及时更新在网址：<a href="https://github.com/aispeech-lab/auditory_book" target="_blank">https://github.com/aispeech-lab/auditory_book</a>。
+>最后，特别感谢机械工业出版社华章分社姚蕾和柯敬贤编辑在出版工作中付出的辛勤工作。衷心希望能够通过翻译本书为中国研究者在听觉神经科学和听觉计算科学
+>方面的探索贡献绵薄之力，以期共同推进智能语音交互的发展，突破“鸡尾酒会问题”的瓶颈。在图书翻译和审校过程中，受学识水平所限，难免存在不妥之处，欢迎
+>专家和读者给予批评指正，最新勘误列表会及时更新在网址：<a href="https://github.com/aispeech-lab/auditory_book" target="_blank">https://github.com/aispeech-lab/auditory_book</a>。
 >
