@@ -8,4 +8,6 @@
      
 In order to convey the ideas of the book about the auditory system, our team translates the book into Chinese. The book covers of the original English version and the translated Chinese version are shown as follows.  
 
-<img src="" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./materials/BookCover_The%20Auditory%20System%20at%20the%20Cocktail%20Party.png" height = "200" alt="BookCover_EN" align=center />
+
+<img src="./materials/BookCover_The%20Auditory%20System%20at%20the%20Cocktail%20Party.png" height = "200" alt="BookCover_CN" align=center />
