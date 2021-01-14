@@ -1,6 +1,7 @@
 ## 听觉系统与鸡尾酒会问题 (The Auditory System at the Cocktail Party)
-
+<a href="https://item.jd.com/13061698.html" target="_blank">
 <img src="./assets/BookCover_The%20Auditory%20System%20at%20the%20Cocktail%20Party.png" height = "500" alt="BookCover" align=center />
+</a>
 
 > The Auditory System at the Cocktail Party is a rather whimsical title that points to the very serious challenge 
     faced by listeners in most everyday environments: how to hear out sounds of interest amid a cacophony of 
@@ -14,7 +15,7 @@ firmly convinced that psychophysical and neurophysiology studies on human audito
 understanding of the brain processing mechanism and inspire us to solve cocktail party problem.
 
 ### 更新 (Update)
-1. 预计2020年12月份正式印刷出版 - 12/01/2020；
+1. <a href="https://item.jd.com/13061698.html" target="_blank">第一版已于2020年12月份正式印刷出版</a> - 01/01/2021；
 
 ### 推荐语 (Recommendation)
 > 语音识别技术得益于深度学习的发展，已经走进了我们的生活。但是，“鸡尾酒会问题”是目前语音识别技术发展中无法回避的挑战性难题。本书从物理层的信号与噪声分离、神经生理层的听觉流分离以及心理认知层的听觉空间注意，对“鸡尾酒会问题”进行了全方位的分析；从信号处理的技术实现、计算建模以及听障应用的角度进行了详细阐述。本书对促进语音技术从感知智能到认知智能的发展有着重要的参考价值。目前，涉及此类内容的中文参考书籍极缺，本书的出版弥补了这一缺憾。译者长期从事该领域的技术研究工作，全书用词准确、行文流畅，是一本难能可贵的前沿性技术书籍，特此予以推荐。  
